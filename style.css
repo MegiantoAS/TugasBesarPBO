@@ -1,0 +1,39 @@
+
+/* halaman utama */
+.warnanavbar{
+    background-color: #131311;
+    text-decoration-color:wheat;
+    box-shadow: 1px 1px 10px rgba(30, 211, 196, 0.959);
+   position: fixed;
+   width: 230vh;
+   z-index: 999;
+    
+}
+
+.iconhitam{
+    color: black;
+}
+.warna-bg{
+    background: linear-gradient(to right, rgba(210, 223, 25, 0),rgba(218, 182, 20, 0));
+   
+}
+
+.card-img-top{
+    image-resolution: 20px;
+    
+}
+/* akhir */
+
+/* halaman back */
+.jumbotron-back{
+
+    background: linear-gradient(to right, rgba(210, 223, 25, 0.562),rgba(218, 182, 20, 0));
+
+
+
+}
+.warna-back{
+   background-color: yellow;
+}
+
+/* akhir */
