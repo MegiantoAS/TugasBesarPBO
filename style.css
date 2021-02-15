@@ -1,14 +1,6 @@
 
 /* halaman utama */
-.warnanavbar{
-    background-color: #131311;
-    text-decoration-color:wheat;
-    box-shadow: 1px 1px 10px rgba(30, 211, 196, 0.959);
-   position: fixed;
-   width: 230vh;
-   z-index: 999;
-    
-}
+
 
 .iconhitam{
     color: black;
@@ -36,4 +28,12 @@
    background-color: yellow;
 }
 
-/* akhir */
+/* navbar */
+.bodyhome{
+    background-image: url('img/bgback.jpg');
+ 
+   /* overflow: hidden; */
+  
+ 
+}
+
